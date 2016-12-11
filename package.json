@@ -1,0 +1,22 @@
+{
+  "name": "ng-bones",
+  "version": "1.0.0",
+  "description": "A quick an dirty angular skeleton",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timebox-designs/ng-bones.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timebox-designs/ng-bones/issues"
+  },
+  "homepage": "https://github.com/timebox-designs/ng-bones#readme",
+  "dependencies": {
+    "@types/angular": "^1.5.20"
+  }
+}
