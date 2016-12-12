@@ -1,4 +1,4 @@
-namespace app.controllers {
+module app.controllers {
     class WelcomeController {
         private welcome: string;
 

@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/timebox-designs/ng-bones.git"
   },
-  "author": "",
+  "author": "Don Campbell",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/timebox-designs/ng-bones/issues"

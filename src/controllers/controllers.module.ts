@@ -1,3 +1,3 @@
-namespace app.controllers {
+module app.controllers {
     angular.module("app.controllers", []);
 }
