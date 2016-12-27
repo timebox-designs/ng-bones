@@ -1,5 +1,5 @@
 module app.controllers {
-    class WelcomeController {
+    class Controller {
         private welcome: string;
 
         constructor() {
@@ -8,5 +8,5 @@ module app.controllers {
     }
 
     angular.module("app.controllers")
-        .controller("WelcomeController", WelcomeController);
+        .controller("controller", Controller);
 }
